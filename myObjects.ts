@@ -21,3 +21,4 @@ type MongoUser = {
 
 const myUser: MongoUser = {_id: "123", name: "John", email: "john@example.com", isActive: true}
 // myUser._id = "456";
+export {}
